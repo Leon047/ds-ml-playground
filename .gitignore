@@ -1,3 +1,6 @@
 */.env
 */__pycache__
-*/Dataset.csv
+*/.ipynb_checkpoints
+
+causal_graph_discovery_with_llms/Dataset.csv
+wur_data_cleaning_and_visualization/cwurData.csv
